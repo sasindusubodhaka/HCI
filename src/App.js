@@ -33,7 +33,17 @@ function App() {
       caption: 'Website Design',
       url:'../assets/img/4.jpg'
     },
-
+    {
+      title: 'Spa – Operated by Spa Ceylon Planning',
+      caption: 'Website Design',
+      url:'../assets/img/spa.jpg'
+    },
+    {
+      title: 'Gymnasium',
+      caption: 'Website Design',
+      url:'../assets/img/gym.jpg'
+    },
+   
   ]
 
   return (
@@ -95,15 +105,15 @@ function App() {
             <li>
                {/* <div className="timeline-panel"> */}
                 <div className="timeline-heading">
-                  <h4>2009-2011</h4>
+                  <h4>2009-2021</h4>
                   <h4 className="subheading">Our Humble Beginnings</h4>
                 </div>
                 {/* <div className="timeline-body"> */}
                   <p className="text-muted">Ayubowan! (May you live long)<br></br>
                   Welcome to VinorA, the largest family of luxury hotels Sri Lanka has to offer!
-                  On this resplendent isle, we wish all our guests a long life. And even though some have called it paradise, we call it home. A home filled with stories untold and wonders enchanted, which I invite you to step into and discover at each of our luxury hotels and villas under the banner of Jetwing Hotels, Sri Lanka.
+                  On this resplendent isle, we wish all our guests a long life. And even though some have called it paradise, we call it home. A home filled with stories untold and wonders enchanted, which I invite you to step into and discover at each of our luxury hotels and villas under the banner of Vinora Hotels, Sri Lanka.
 
-                  For nearly half a century, we have been honoured to share the magic of our tropical land with the world. With humble beginnings on my family’s favourite seaside town of Negombo, it was my father, Herbert Cooray, who set us on the path we still proudly follow today. He built Jetwing on the strength of family values – with respect at our core, complemented by the inherent sense of care and compassion shared by all Sri Lankans. In unison, these values contributed to a spirit so powerful, that it continues to inspire generations of Sri Lankan hospitality – the luxurious charm which sets us apart, and is wholeheartedly extended to you with warm smiles across every part of our island.
+                  For nearly half a century, we have been honoured to share the magic of our tropical land with the world. With humble beginnings on my family’s favourite seaside town of Galle, it was my father, Herbert Cooray, who set us on the path we still proudly follow today. He built Vinora on the strength of family values – with respect at our core, complemented by the inherent sense of care and compassion shared by all Sri Lankans. In unison, these values contributed to a spirit so powerful, that it continues to inspire generations of Sri Lankan hospitality – the luxurious charm which sets us apart, and is wholeheartedly extended to you with warm smiles across every part of our island.
 
                   Be it hidden amidst the mystique of historical cities, nestled away in rustic villages, cushioned warmly up in the mountain clouds, or pampered down by the setting sun of the Indian Ocean – our doors are always open, wherever you may find yourself in Sri Lanka.
 
@@ -111,9 +121,9 @@ function App() {
 
                   Welcome to our family – we look forward to meeting you.
 
-                  Shiromal Cooray
+                  Sasindu Dilshan
 
-                  Chairman, Jetwing Hotels, Sri Lanka</p>
+                  Chairman, Vinora Hotels, Sri Lanka</p>
                 {/* </div> */}
               {/* </div> */}
             </li>
